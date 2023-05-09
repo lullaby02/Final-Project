@@ -1,5 +1,7 @@
 # Final-Project
 Hero Villain Generator
+this generator creates a Hero or a Villain based on users' choice. In the beginning of the program a user choses who they want to create, give their charecter a name and last name, and chose what kind of species they want. There is an option to create more than one charecter. In the end of the program user can save their character/s as a txt file. 
+
 import random
 
 def generate_character():
